@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\bin\Debug\net7.0\Ex.43.exe
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\bin\Debug\net7.0\Ex.43.deps.json
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\bin\Debug\net7.0\Ex.43.runtimeconfig.json
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\bin\Debug\net7.0\Ex.43.dll
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\bin\Debug\net7.0\Ex.43.pdb
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.dll
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\refint\Ex.43.dll
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.pdb
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\Ex.43.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\SEM6C#.DZ.Korolyonok\Ex.43\obj\Debug\net7.0\ref\Ex.43.dll
